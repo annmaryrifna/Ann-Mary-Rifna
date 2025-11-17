@@ -35,6 +35,6 @@ Languages
 Frameworks
 <p> <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express" /> </p>
 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,idea,linux" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode," /> </p>
 📊 My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnnMary&show_icons=true&theme=radical" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnMary&hide=css&layout=compact&theme=radical" height="160px"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnMary&theme=radical" height="180px" /> </p>
