@@ -1,45 +1,77 @@
-🌟 Hi, I’m Ann Mary
-✨ Developer | 🤖 Machine Learning Enthusiast | 📱 Android & Web Developer
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&color=F39C12&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Android+App+Developer;Clean+UI+Designer;Tech+Explorer" /> </p>
-🎨 About Me
+<!-- PREMIUM PROFILE HEADER -->
+<h1 align="center">🌟 Hi, I'm <span style="color:#F39C12;">Ann Mary</span></h1>
+<h3 align="center">✨ Full Stack Developer | 🤖 ML Enthusiast | 📱 Android Developer</h3>
 
-I’m a developer who loves creating clean interfaces, smart applications, and real-world ML solutions.
-Whether it’s a mobile app, a web dashboard, or a prediction system — I build it with a focus on simplicity + good UI + strong logic.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F39C12&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Android+App+Developer;Clean+UI+Designer;Tech+Explorer" />
+</p>
 
-🧩 What I Do
-💻 Full-Stack & UI Development
+---
 
-Modern React frontend with clean UI
+## 🎨 About Me
+I build **modern UIs**, **smart applications**, and **real-world ML solutions**.  
+Focused on **simplicity**, **clean design**, and **scalable logic**.
 
-Flutter Android apps
+---
 
-Node.js + Express backend
+## 🧩 What I Do
 
-MySQL database systems
+### 💻 Full-Stack & UI Development
+- React.js clean UI dashboards  
+- Flutter Android applications  
+- Node.js + Express backend APIs  
+- MySQL database systems  
+- Beautiful, aesthetic interfaces  
 
-Pixel-perfect, aesthetic UI/UX layouts
+### 🤖 Machine Learning
+- Data preprocessing & feature engineering  
+- Prediction & classification models  
+- Real-world ML systems (Calorie Tracker, Student Prediction)  
 
-🤖 Machine Learning
+### 📱 Android Development
+- XML layouts  
+- Smooth, polished UI  
+- Local DB + API integration  
 
-Data preprocessing & feature engineering
+---
 
-Prediction & classification models
+## 🚀 Featured Projects
 
-End-to-end real-world ML systems
+| Project | Description |
+|--------|-------------|
+| 📱 **Grocery List App** | Flutter UI + local storage |
+| 🧾 **Java Mini Projects** | Attendance System, Recipe Booklet |
+| 🤖 **ML Projects** | Calorie Tracker, Student Prediction |
+| 🐾 **Pet Hostel Dashboard** | React + Node.js, charts, modals |
 
-Projects like Student Performance Prediction, Calorie Tracker, Sign Language Detection
+---
 
-📱 Android Development
+## 🛠 Tech Stack
 
-XML UI design
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp" />
+</p>
 
-Modern UI layouts
+### Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express" />
+</p>
 
-Local storage & APIs
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,idea,linux" />
+</p>
 
-🚀 Projects I Work On
-Project	Description
-📱 Grocery List App	Flutter-based, clean UI design
-🧾 Java Mini Projects	Attendance System, Recipe Booklet, etc.
-🤖 ML Projects	Student Performance Prediction, Calorie Tracker
-🐾 Pet Hostel Dashboard	React + Node.js, booking UI, charts, modals
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annmaryrifna&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annmaryrifna&theme=radical" height="160px" />
+</p>
+
+---
+
+## 🎨 My UI Vibes
