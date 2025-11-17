@@ -73,5 +73,30 @@ Focused on **simplicity**, **clean design**, and **scalable logic**.
 </p>
 
 ---
-
 ## 🎨 My UI Vibes
+
+<p align="center">
+  
+
+┌──────────────────────────────────┐
+│ Hello, I'm Ann Mary ✨ │
+│ Creating Clean Modern Interfaces │
+│ ML • React • Flutter • Java │
+└──────────────────────────────────┘
+
+
+</p>
+....
+
+## 🌐 Connect with Me
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F39C12&height=90&section=footer"/>
+</p>
+
