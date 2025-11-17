@@ -39,10 +39,11 @@ Focused on **simplicity**, **clean design**, and **scalable logic**.
 
 | Project | Description |
 |--------|-------------|
-| 📱 **Grocery List App** | Flutter UI + local storage |
-| 🧾 **Java Mini Projects** | Attendance System, Recipe Booklet |
-| 🤖 **ML Projects** | Calorie Tracker, Student Prediction |
-| 🐾 **Pet Hostel Dashboard** | React + Node.js, charts, modals |
+| **Grocery List App** | Flutter UI + local storage |
+| **Java Mini Projects** | Attendance System, Recipe Booklet |
+| **ML Projects** | Calorie Tracker, Student Prediction |
+| **Pet Hostel Dashboard** | React + Node.js, charts, modals |
+| **PHP Project** | Beauty and Hair salon website,BELLEZA |
 
 ---
 
@@ -50,17 +51,17 @@ Focused on **simplicity**, **clean design**, and **scalable logic**.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c" />
 </p>
 
 ### Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=,flask,react,flutter,nodejs," />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,idea,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode" />
 </p>
 
 ---
@@ -73,25 +74,12 @@ Focused on **simplicity**, **clean design**, and **scalable logic**.
 </p>
 
 ---
-## 🎨 My UI Vibes
 
-<p align="center">
-  
-
-┌──────────────────────────────────┐
-│ Hello, I'm Ann Mary ✨ │
-│ Creating Clean Modern Interfaces │
-│ ML • React • Flutter • Java │
-└──────────────────────────────────┘
-
-
-</p>
-....
 
 ## 🌐 Connect with Me
 <p>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="annmaryrifna2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
