@@ -1,9 +1,9 @@
 <!-- PREMIUM PROFILE HEADER -->
-<h1 align="center">🌟 Hi, I'm <span style="color:#F39C12;">Ann Mary</span></h1>
-<h3 align="center">✨ Full Stack Developer | 🤖 ML Enthusiast | 📱 Android Developer</h3>
+<h1 align="center">🌟 Hi, I'm <span style="color:#F39C12;">Ann Mary Rifna</span></h1>
+<h3 align="center">✨ Full Stack Developer | 🤖 AI Enthusiast | 📱 Android Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F39C12&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Android+App+Developer;Clean+UI+Designer;Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F39C12&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Android+App+Developer;Clean+UI+Designer;Tech+Explorer" />
 </p>
 
 ---
