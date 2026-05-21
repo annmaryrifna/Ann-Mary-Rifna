@@ -41,7 +41,8 @@ Focused on **simplicity**, **clean design**, and **scalable logic**.
 |--------|-------------|
 | **Grocery List App** | Flutter UI + local storage |
 | **Java Mini Projects** | Attendance System, Recipe Booklet |
-| **ML Projects** | Calorie Tracker, Student Prediction |
+| **ML Projects** |  Student Prediction |
+| **DL Projects** | Calorie Tracker, Snap2Cook |
 | **Pet Hostel Dashboard** | React + Node.js, charts, modals |
 | **PHP Project** | Beauty and Hair salon website,BELLEZA |
 
@@ -51,12 +52,12 @@ Focused on **simplicity**, **clean design**, and **scalable logic**.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c," />
 </p>
 
 ### Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=,flask,react,flutter,nodejs," />
+  <img src="https://skillicons.dev/icons?i=flask,react,flutter,nodejs," />
 </p>
 
 ### Tools
@@ -78,7 +79,7 @@ Focused on **simplicity**, **clean design**, and **scalable logic**.
 
 ## 🌐 Connect with Me
 <p>
- <a href="https://www.linkedin.com/in/your-linkedin-id/">
+ <a href="https://www.linkedin.com/in/ann-mary-rifna/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
   <a href="mailto:annmaryrifna2003@gmail.com">
