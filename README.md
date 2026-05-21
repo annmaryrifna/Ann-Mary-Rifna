@@ -67,15 +67,6 @@ Focused on **simplicity**, **clean design**, and **scalable logic**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annmaryrifna&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annmaryrifna&theme=radical" height="160px" />
-</p>
-
----
-
 
 ## 🌐 Connect with Me
 <p>
